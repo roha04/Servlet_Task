@@ -1,0 +1,11 @@
+
+
+java:S1488;"dImmediately return this expression instead of assigning it to the temporary variable "utcFormatter".(ö‹õ…8Û‘âå1
+m
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(ûø€8ÎäôÃå1
+
+java:S1989 "qHandle the following exception that could be thrown by "updateDateTimeForTimeZone": UnsupportedEncodingException.(˜äí—8ì÷ƒâå1
+O
+java:S1135("2Complete the task associated to this TODO comment.(¦¾Ş8¼’âå1
+N
+java:S1602)",Remove useless curly braces around statement(‚õ£²ÿÿÿÿÿ8½’âå1
